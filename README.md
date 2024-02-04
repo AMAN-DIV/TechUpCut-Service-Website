@@ -1,19 +1,14 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/innohub)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/innohub?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/innohub?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/QAkjqXuICQE?style=social)](https://youtu.be/QAkjqXuICQE)
-
+ 
   <br />
   <br />
 
-  <h2 align="center">InnoHub - Digital Marketing Agency Website</h2>
+  <h2 align="center">TechUpCut Marketing & Website Development Agencyis</h2>
 
-  InnoHub is a fully responsive digital marketing agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+TechUpCut Marketing & Website Development Agencyis a fully responsive digital marketing agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/innohub/"><strong>➥ Live Demo</strong></a>
+  
 
 </div>
 
@@ -21,34 +16,24 @@
 
 ### Demo Screeshots
 
-![InnoHub Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![image](https://github.com/AMAN-DIV/TechUpCut-Service-Website/assets/125110120/89e4aab3-b7e1-4697-aa80-96d64981d0a6)
 
-### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+![image](https://github.com/AMAN-DIV/TechUpCut-Service-Website/assets/125110120/f614a760-c8e3-4c5f-bd9d-cacd46639815)
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+![image](https://github.com/AMAN-DIV/TechUpCut-Service-Website/assets/125110120/9b3137c7-8b09-4528-aaf6-fc4825be2b8a)
 
-### Run Locally
 
-To run **InnoHub** locally, run this command on your git bash:
 
-Linux and macOS:
 
-```bash
-sudo git clone https://github.com/codewithsadee/innohub.git
-```
 
-Windows:
 
-```bash
-git clone https://github.com/codewithsadee/innohub.git
-```
 
-### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+
 
 ### License
 
 This project is **free to use** and does not contains any license.
+## we are working on it.
